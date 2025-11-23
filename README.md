@@ -3,8 +3,8 @@
 
 **Domain**: Finance & Banking  
 **Course**: Introduction to Problem Solving & Programming  
-**Name**: YOUR FULL NAME  
-**Roll No**: YOUR ROLL NUMBER  
+**Name**: DHRUV KUMAR SHARMA    
+**Roll No**: 25BAI10952  
 
 ## Problem Statement
 Most individuals do not regularly track their assets, liabilities, and daily expenses. This leads to poor financial decisions and surprise shortages. This project solves this real-world problem by providing a simple, menu-driven personal finance tracker that calculates live net worth.
@@ -26,6 +26,6 @@ Most individuals do not regularly track their assets, liabilities, and daily exp
 
 ## How to Run
 ```bash
-git clone https://github.com/YOUR-USERNAME/Personal-Finance-Tracker.git
+git clone https://github.com/dhruv25bai10952/Personal-Finance-Tracker.git
 cd Personal-Finance-Tracker/src
 python main.py
